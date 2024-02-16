@@ -29,6 +29,7 @@ For detailed instructions on setting up the project environment and running the 
 
 If you find our work useful in your research, please cite:
 
+"""
 ```bibtex
 @article{your_citation_here,
   title={Detection of Micromobility Vehicles in Urban Traffic Videos},
@@ -36,3 +37,4 @@ If you find our work useful in your research, please cite:
   journal={Your journal here},
   year={Year}
 }
+"""

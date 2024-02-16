@@ -1,5 +1,3 @@
-# Micro_Mobility_Detection
-
 # Detection of Micromobility Vehicles in Urban Traffic Videos
 
 ![Results Demonstration](data/media/video_results_fgfa_yolo.gif)

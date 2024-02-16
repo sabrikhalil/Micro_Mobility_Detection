@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: mmcv-full
+Version: 1.7.2
+Summary: OpenMMLab Computer Vision Foundation
+Home-page: https://github.com/open-mmlab/mmcv
+Author: MMCV Contributors
+Author-email: openmmlab@gmail.com
+Keywords: computer vision
+Classifier: Development Status :: 4 - Beta
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Utilities
+License-File: LICENSE
+License-File: LICENSES.md
+Requires-Dist: addict
+Requires-Dist: numpy
+Requires-Dist: packaging
+Requires-Dist: Pillow
+Requires-Dist: pyyaml
+Requires-Dist: yapf
+Requires-Dist: regex ; sys_platform == "win32"
+Provides-Extra: all
+Provides-Extra: build
+Provides-Extra: optional
+Provides-Extra: tests
+

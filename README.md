@@ -21,7 +21,7 @@ Our custom PolyMMV dataset is tailored to address the unique challenges of detec
 
 ## Getting Started
 
-For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [installation guide](./installation).
+For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [Drive](https://drive.google.com/drive/folders/1oluAUC_AjTcsOit1YU_MN0GfCkk20n1n?usp=sharing).
 
 ## Citation
 

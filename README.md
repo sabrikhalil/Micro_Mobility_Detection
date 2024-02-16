@@ -2,7 +2,7 @@
 
 # Detection of Micromobility Vehicles in Urban Traffic Videos
 
-![Results Demonstration](data/media/results_demo.gif)
+![Results Demonstration](data/media/micro_mobility_architecture.png)
 
 This project introduces a novel object detection model, FGFA-YOLOX, specifically designed to enhance the detection of micromobility vehicles (MMVs) such as e-scooters, bikes, and skateboards in urban traffic videos. By integrating the accuracy and speed of single-frame detection with the enriched temporal features of video-based frameworks, FGFA-YOLOX significantly advances the state-of-the-art in urban mobility analytics.
 
@@ -15,7 +15,7 @@ This project introduces a novel object detection model, FGFA-YOLOX, specifically
 
 Below is the architecture of our FGFA-YOLOX model, illustrating the innovative integration of spatio-temporal features for enhanced object detection in complex urban environments.
 
-![FGFA-YOLOX Architecture](data/media/architecture.png)
+![FGFA-YOLOX Architecture](data/media/micro_mobility_architecture.png)
 
 ## Dataset
 

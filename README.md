@@ -17,11 +17,11 @@ Below is the architecture of our FGFA-YOLOX model, illustrating the innovative i
 
 ## Dataset
 
-Our custom PolyMMV dataset is tailored to address the unique challenges of detecting MMVs in densely populated urban areas. For more information on accessing and utilizing the dataset, please visit [our dataset documentation](./data).
+Our custom PolyMMV dataset is tailored to address the unique challenges of detecting MMVs in densely populated urban areas. For more information on accessing and utilizing the dataset, please visit [our dataset documentation](https://drive.google.com/drive/folders/1oluAUC_AjTcsOit1YU_MN0GfCkk20n1n?usp=sharing).
 
 ## Getting Started
 
-For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [Drive](https://drive.google.com/drive/folders/1oluAUC_AjTcsOit1YU_MN0GfCkk20n1n?usp=sharing).
+For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [installation guide](./installation).
 
 ## Citation
 

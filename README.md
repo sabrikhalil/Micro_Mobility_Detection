@@ -23,6 +23,17 @@ Our custom PolyMMV dataset is tailored to address the unique challenges of detec
 
 For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [installation guide](./installation).
 
+
+## Acknowledgments 
+We extend our gratitude to the developers of mmtracking for their comprehensive platform, which played an important role in the implementation of our proposed FGFA-YOLOX architecture. Their work provided the necessary infrastructure that enabled us to seamlessly integrate our model. For their invaluable contribution to our project and the broader research community, we sincerely thank them.
+
+@misc{mmtrack2020,
+    title={{MMTracking: OpenMMLab} video perception toolbox and benchmark},
+    author={MMTracking Contributors},
+    howpublished = {\url{https://github.com/open-mmlab/mmtracking}},
+    year={2020}
+}
+
 ## Citation
 
 If you find our work useful in your research, please cite:

@@ -6,7 +6,7 @@ This project introduces a novel object detection model, FGFA-YOLOX, specifically
 
 ## Key Contributions
 
-- Introduction of the FGFA-YOLOX model, offering a significant leap in detecting micromobility vehicles within urban settings.
+- Introduction of the FGFA-YOLOX model, offering a significant improvement on video object detection models.
 - Construction of a comprehensive dataset focused on urban micromobility, aiming to propel further research by making it publicly available.
 
 ## Model Architecture
@@ -17,7 +17,15 @@ Below is the architecture of our FGFA-YOLOX model, illustrating the innovative i
 
 ## Dataset
 
-Our custom PolyMMV dataset is tailored to address the unique challenges of detecting MMVs in densely populated urban areas. For more information on accessing and utilizing the dataset, please visit [our dataset documentation](https://drive.google.com/drive/folders/1oluAUC_AjTcsOit1YU_MN0GfCkk20n1n?usp=sharing).
+The PolyMMV dataset is crafted for detecting Micromobility Vehicles in urban environments, comprising:
+
+- Video footage capturing diverse urban traffic scenarios.
+- Annotations in three formats: YOLO, Pascal VOC, and COCO.
+- Pre-trained model checkpoints, allowing users to benchmark or further fine-tune on the PolyMMV dataset.
+- A results folder that contains the results for each model trained.
+
+For accessing these resources, visit [our dataset Drive](https://drive.google.com/drive/folders/1oluAUC_AjTcsOit1YU_MN0GfCkk20n1n?usp=sharing).
+
 
 ## Getting Started
 

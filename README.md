@@ -37,6 +37,10 @@ We extend our gratitude to the developers of mmtracking for their comprehensive 
 
 Learn more about their work at [mmtracking GitHub](https://github.com/open-mmlab/mmtracking).
 
+## Contact
+For any questions or issues faced during the execution of code, feel free to reach out to me in: khalil.sabri@polymtl.ca . 
+
+
 ## Citation
 
 If you find our work useful in your research, please cite:

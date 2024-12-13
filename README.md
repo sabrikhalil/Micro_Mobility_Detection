@@ -29,7 +29,7 @@ For accessing these resources, visit [our dataset Drive](https://drive.google.co
 
 ## Getting Started
 
-For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [installation guide](./installation).
+For detailed instructions on setting up the project environment and running the FGFA-YOLOX model, please refer to the [installation guide](./installation.md).
 
 
 ## Acknowledgments 

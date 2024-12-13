@@ -45,4 +45,9 @@ For any questions or issues faced during the execution of code, feel free to rea
 
 If you find our work useful in your research, please cite:
 
-Coming
+@article{sabri2024detection,
+  title={Detection of micromobility vehicles in urban traffic videos},
+  author={Sabri, Khalil and Djilali, C{\'e}lia and Bilodeau, Guillaume-Alexandre and Saunier, Nicolas and Bouachir, Wassim},
+  journal={arXiv preprint arXiv:2402.18503},
+  year={2024}
+}

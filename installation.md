@@ -45,10 +45,7 @@ The main file for interacting with the project is: [Main Notebook](https://githu
    cd Micro_Mobility_Detection
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. Installation instructions are included directly in the Main Notebook.
 
 3. Run the demo in the notebook to verify the installation.
 

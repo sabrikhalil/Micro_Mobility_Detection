@@ -46,10 +46,11 @@ For any questions or issues faced during the execution of code, feel free to rea
 If you find our work useful in your research, please use the following BibTeX entry:
 
 ```bibtex
-@article{sabri2024detection,
+@inproceedings{sabri2024detection,
   title = {Detection of Micromobility Vehicles in Urban Traffic Videos},
   author = {Sabri, Khalil and Djilali, Célia and Bilodeau, Guillaume-Alexandre and Saunier, Nicolas and Bouachir, Wassim},
-  journal = {arXiv preprint arXiv:2402.18503},
+  booktitle = {Proceedings of the 21st Conference on Robots and Vision (CRV)},
   year = {2024},
   url = {https://arxiv.org/abs/2402.18503}
 }
+
